@@ -1,0 +1,11 @@
+{
+  "id": "/chat/",
+  "name": "传讯",
+  "short_name": "传讯",
+  "start_url": "/chat/",
+  "scope": "/chat/",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#ffffff",
+  "theme_color": "#000000"
+}
